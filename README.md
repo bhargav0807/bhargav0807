@@ -9,19 +9,12 @@ Welcome to my GitHub profile! I'm passionate about leveraging AI and machine lea
 ## 🛠 Skills & Expertise
 
 ### Core Competencies:
-- **Programming Languages:** Python, JavaScript
-- **Machine Learning Frameworks:** TensorFlow, PyTorch
-- **Data Processing:** NumPy, Pandas, Bytewax
-- **Deep Learning:** Convolutional Neural Networks (CNNs), YOLO Object Detection
-- **Database Systems:** MongoDB, Qdrant, Pinecone
-- **API Development:** Flask, FastAPI, Streamlit
-- **Natural Language Processing:** LangChain, ChatGPT, LLM-based Systems
-- **Cloud & Deployment:** Docker, Google Cloud (Vertex AI), RabbitMQ
-
----
-
-## 📈 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical)
+- **Programming Languages:** Python, SQL, HTML, CSS, JavaScript
+- **AI/ML and Gen AI:** TensorFlow, PyTorch, LLMs, LangChain, CrewAI 
+- **Database Systems:** MySQL, PostgreSQL, MongoDB, Qdrant, Pinecone, Weaviate
+- **Data Visualization:** Tableau, Power BI, Matplotlib, Seaborn, Excel
+- **API Development & Libraries:** Flask, FastAPI, Scikit learn, NumPy, Pandas
+- **Cloud & Deployment:** Docker, AWS EC2, Google Cloud (Vertex AI)
 
 ---
 
